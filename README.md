@@ -1,4 +1,4 @@
-<h1>🖐 Hi, I'm God Coder Know!</h1>
+<h1>👋 Hello world, I'm God Coder Know!</h1>
 <div>Welcome to my page ! <br> I'm Frontend developer from Busan, Republic of Korea</div>
 
 <h2>🖥 My Stack</h2>
