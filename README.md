@@ -2,8 +2,8 @@
 
 안뇽하세욘
 
-![React](https://img.shields.io/badge/-React-222222?logo=React)
-https://img.shields.io/badge/logo-test-blue?logo=facebook&logoColor=white&logoWidth=40
+![1234](https://img.shields.io/badge/-React-222222?logo=React)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
