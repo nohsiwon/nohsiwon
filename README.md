@@ -2,7 +2,7 @@
 
 안뇽하세욘
 
-(https://img.shields.io/badge/-React-222222?logo=React)
+!(https://img.shields.io/badge/-React-222222?logo=React)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
