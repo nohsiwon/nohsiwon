@@ -4,7 +4,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=flat&logo=React&logoColor=61DAFB)
 ![Nodejs](https://img.shields.io/badge/Nodejs-339933?style=flat&logo=Node.js&logoColor=white&logoWidth=20)
 
 
