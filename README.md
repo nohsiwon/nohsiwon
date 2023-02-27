@@ -3,7 +3,7 @@
 안뇽하세욘
 
 ![React](https://img.shields.io/badge/-React-222222?logo=React)
-![test](https://img.shields.io/badge/-React-222222)
+![test](https://img.shields.io/badge/React-222222)
 
 
 - 🔭 I’m currently working on ...
