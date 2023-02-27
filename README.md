@@ -2,8 +2,9 @@
 
 안뇽하세욘
 
-![HTML5](https://img.shields.io/badge/HTML5-222222?logo=HTML5)![React](https://img.shields.io/badge/React-222222?logo=React)
-
+![HTML5](https://img.shields.io/badge/HTML5-222222?logo=HTML5)
+![CSS3](https://img.shields.io/badge/CSS3-222222?logo=CSS3)
+![React](https://img.shields.io/badge/React-222222?logo=React)
 
 
 
