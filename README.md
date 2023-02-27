@@ -2,7 +2,7 @@
 
 안뇽하세욘
 
-https://img.shields.io/static/v1?logo=React&message=React&color=#61DAFB
+https://img.shields.io/badge/v1?logo=React&message=React&color=#61DAFB
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
